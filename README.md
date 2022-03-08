@@ -1,4 +1,4 @@
-# Google-Data-Studio
+# Google-Data-Studio-Dashboards
 This repository contains the different dashboards that I have created
 
 Here are the links for the same:
